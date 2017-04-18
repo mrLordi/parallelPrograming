@@ -1,8 +1,31 @@
-*.class
-*.jar
-*iml
 out/
-.idea/
 target/
-lib/
+.idea/
 
+bin/
+obj/
+Properties/
+
+*.class
+*.gpr
+*.iml
+
+*.sln
+*.suo
+*.config
+*.csproj
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.sdf
+Debug/
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.vcxproj
+*.filters
+*.props
